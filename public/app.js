@@ -1,4 +1,4 @@
-let colordisplay = document.getElementById('colordisplay')
+let colordisplay = document.querySelector('.wrap.color')
 
 //      //      //      //      //    //      //      //
 
