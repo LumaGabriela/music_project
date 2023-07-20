@@ -32,14 +32,8 @@ let page = (g, s) => `<!DOCTYPE html>
     </section>
     <section class="wrap color">
       
-      <audio  id="player" controls src="/music/folklore/11 - invisible string (Dolby Atmos).mp3">
+      <audio  id="player" controls src="/music/${g}/${s}">
       </audio>
-    <!-- <div id="colordisplay"> 
-      <button onclick="document.getElementById('player').play()"><i class="fa-solid fa-play"></i></button> 
-      <button onclick="document.getElementById('player').pause()"><i class="fa-solid fa-pause"></i></button> 
-      <button onclick="document.getElementById('player').volume += 0.1"><i class="fa-solid fa-volume-high"></i></button> 
-      <button onclick="document.getElementById('player').volume -= 0.1"><i class="fa-solid fa-volume-low"></i></button> 
-    </div> -->
 
 
     </section>
