@@ -112,7 +112,7 @@ a{
 input, label{
   cursor: pointer;
 }
-label{margin: .6rem;}
+label{margin: .3rem;}
 
 svg {
   color: white;
