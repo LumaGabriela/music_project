@@ -1,1 +1,14 @@
-{"main":"serverexp.js","dependencies":{"alert":"^5.1.4","cors":"^2.8.5","express":"^4.18.2","firebase":"^8.6.8","firebase-admin":"^11.9.0","node-notifier":"^10.0.1","nodemon":"^2.0.22"}}
+{
+"main":"serverexp.js",
+
+"dependencies":
+{
+    "alert":"^5.1.4",
+    "cors":"^2.8.5",
+    "express":"^4.18.2",
+    "firebase":"^8.6.8",
+    "firebase-admin":"^11.9.0",
+    "node-notifier":"^10.0.1",
+    "nodemon":"^2.0.22"
+    }
+}
